@@ -1,0 +1,34 @@
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\bin\Debug\FORENSIC_PROBLEM.exe.config
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\bin\Debug\FORENSIC_PROBLEM.exe
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\bin\Debug\FORENSIC_PROBLEM.pdb
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.csproj.AssemblyReference.cache
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.csproj.SuggestedBindingRedirects.cache
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmageMale.resources
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmForensicintro.resources
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.Properties.Resources.resources
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.csproj.GenerateResource.cache
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.csproj.CoreCompileInputs.cache
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.exe
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.pdb
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmCalculationMwithAge.resources
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmCalculationMwithoutAge.resources
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmageFemale.resources
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmCalculationFwithAge.resources
+D:\Backup\F\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmCalculationFwithoutAge.resources
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\bin\Debug\FORENSIC_PROBLEM.exe.config
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\bin\Debug\FORENSIC_PROBLEM.exe
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\bin\Debug\FORENSIC_PROBLEM.pdb
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.csproj.AssemblyReference.cache
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.csproj.SuggestedBindingRedirects.cache
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmageFemale.resources
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmageMale.resources
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmCalculationFwithAge.resources
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmCalculationFwithoutAge.resources
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmCalculationMwithAge.resources
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmCalculationMwithoutAge.resources
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.FrmForensicintro.resources
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.Properties.Resources.resources
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.csproj.GenerateResource.cache
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.csproj.CoreCompileInputs.cache
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.exe
+D:\Backup\F Drive\Nafiz Imtiaz Khan\C#\!Exercise\FORENSIC_PROBLEM\FORENSIC_PROBLEM\obj\Debug\FORENSIC_PROBLEM.pdb
